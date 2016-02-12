@@ -1,0 +1,10 @@
+name: lxd
+summary: A layer that provide LXD a lightervisor for containers.
+maintainers:
+    - Matt Bruzek <matthew.bruzek@canonical.com>
+description: |
+  A minimalist lxd charm layer to enable charms to use lxc system containers.
+tags:
+  - containers
+  - layer
+subordinate: false
